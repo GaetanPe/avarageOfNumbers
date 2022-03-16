@@ -1,0 +1,14 @@
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\bin\Debug\netcoreapp3.1\moyenneNombres.exe
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\bin\Debug\netcoreapp3.1\moyenneNombres.deps.json
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\bin\Debug\netcoreapp3.1\moyenneNombres.runtimeconfig.json
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\bin\Debug\netcoreapp3.1\moyenneNombres.runtimeconfig.dev.json
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\bin\Debug\netcoreapp3.1\moyenneNombres.dll
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\bin\Debug\netcoreapp3.1\moyenneNombres.pdb
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\obj\Debug\netcoreapp3.1\moyenneNombres.csproj.AssemblyReference.cache
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\obj\Debug\netcoreapp3.1\moyenneNombres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\obj\Debug\netcoreapp3.1\moyenneNombres.AssemblyInfoInputs.cache
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\obj\Debug\netcoreapp3.1\moyenneNombres.AssemblyInfo.cs
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\obj\Debug\netcoreapp3.1\moyenneNombres.csproj.CoreCompileInputs.cache
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\obj\Debug\netcoreapp3.1\moyenneNombres.dll
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\obj\Debug\netcoreapp3.1\moyenneNombres.pdb
+C:\Users\peros\source\repos\moyenneNombres\moyenneNombres\obj\Debug\netcoreapp3.1\moyenneNombres.genruntimeconfig.cache
